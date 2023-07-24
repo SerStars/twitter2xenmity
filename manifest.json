@@ -1,0 +1,12 @@
+{
+    "name": "Twitter2X",
+    "version": "1.0.0",
+    "description": "Automatically converts twitter.com links to x.com (𝕏)",
+    "authors": [
+       {
+          "name": "SerStars",
+          "id": "861631850681729045"
+       }
+    ]
+ }
+ 
